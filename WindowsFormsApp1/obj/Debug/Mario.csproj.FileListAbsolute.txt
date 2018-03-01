@@ -1,0 +1,22 @@
+C:\Users\Анастасия\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Анастасия\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Анастасия\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Анастасия\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Mario.csprojResolveAssemblyReference.cache
+C:\Users\Анастасия\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Анастасия\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Анастасия\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Mario.csproj.GenerateResource.Cache
+C:\Users\Анастасия\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Mario.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Анастасия\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Анастасия\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Анастасия\source\repos\ПМ-43 Нестёркина А.А. game\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Анастасия\source\repos\ПМ-43 Нестёркина А.А. game\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Анастасия\source\repos\ПМ-43 Нестёркина А.А. game\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Анастасия\source\repos\ПМ-43 Нестёркина А.А. game\WindowsFormsApp1\obj\Debug\Mario.csprojResolveAssemblyReference.cache
+C:\Users\Анастасия\source\repos\ПМ-43 Нестёркина А.А. game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Анастасия\source\repos\ПМ-43 Нестёркина А.А. game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Анастасия\source\repos\ПМ-43 Нестёркина А.А. game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Анастасия\source\repos\ПМ-43 Нестёркина А.А. game\WindowsFormsApp1\obj\Debug\Mario.csproj.GenerateResource.Cache
+C:\Users\Анастасия\source\repos\ПМ-43 Нестёркина А.А. game\WindowsFormsApp1\obj\Debug\Mario.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\source\repos\ПМ-43 Нестёркина А.А. game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Анастасия\source\repos\ПМ-43 Нестёркина А.А. game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
